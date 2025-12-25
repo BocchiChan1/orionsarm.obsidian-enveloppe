@@ -8,12 +8,12 @@ category:
 matter:
   - antipodal-onion-quest
 unbox: true
+env-share: true
 mnemonics: false
 flashcards: false
 tags:
   - filmo/orionsarm
   - arts/fiction
-share: true
 publish: true
 ---
 
