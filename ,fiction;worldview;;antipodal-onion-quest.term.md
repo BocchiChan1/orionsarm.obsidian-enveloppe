@@ -3,8 +3,6 @@ title: ",novel;orionsarm;;antipodal-onion-quest.term"
 created: 2025-12-19
 created_date: 2025-12-19 17:18
 modified_date: 2025-12-19 17:18
-share_link: https://share.note.sx/5cl56z80#uxhzVaNTa3O9rxG5ZZz5fjtDRD4/j38HWeJWhSrb2B4
-share_updated: 2025-12-25T10:12:41+09:00
 category:
   - "[[121.arts|121.arts]]"
 matter:
