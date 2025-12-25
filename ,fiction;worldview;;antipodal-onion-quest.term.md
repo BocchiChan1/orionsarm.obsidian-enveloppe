@@ -14,7 +14,6 @@ flashcards: false
 tags:
   - filmo/orionsarm
   - arts/fiction
-publish: true
 ---
 
 ### **0. 출처**
