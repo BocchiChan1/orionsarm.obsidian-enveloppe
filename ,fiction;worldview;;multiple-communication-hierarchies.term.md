@@ -21,7 +21,6 @@ tags:
 aliases:
   - orironsarm.003
 ---
-## **다중 커뮤니케이션 계층 (Multiple Communication Hierarchies)**
 
 ### 1. 개요
 
