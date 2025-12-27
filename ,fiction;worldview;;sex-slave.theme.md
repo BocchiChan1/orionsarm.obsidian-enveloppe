@@ -13,8 +13,8 @@ matter:
   - sex-slave
 unbox: true
 env-share: true
+spaced-repetition: false
 mnemonics: false
-flashcards: false
 tags:
   - filmo/orionsarm
   - arts/fiction

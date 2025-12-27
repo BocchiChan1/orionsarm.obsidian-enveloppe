@@ -12,8 +12,8 @@ matter:
   - orionsarm
 unbox: true
 env-share: true
+spaced-repetition: false
 mnemonics: false
-flashcards:
 tags:
   - filmo/orionsarm
   - arts/fiction
