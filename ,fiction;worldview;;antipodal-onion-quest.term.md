@@ -13,8 +13,8 @@ matter:
   - antipodal-onion-quest
 unbox: true
 env-share: true
+spaced-repetition: false
 mnemonics: false
-flashcards: false
 tags:
   - arts/fiction
   - filmo/orionsarm
