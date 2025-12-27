@@ -22,7 +22,6 @@ aliases:
   - antipodal-onion-quest.001
 ---
 
-
 ### 1. 안티포달 어니언 퀘스트 (Antipodal Onion Quest)
 
 > "껍질을 벗길 때마다 당신의 세계는 무너질 것이고, 마지막에 남는 것은 공허이거나 혹은 신성(Ascension)일 것이다."
@@ -57,7 +56,16 @@ aliases:
 
 ### 6. 출처
 
-- Orion’s Arm Encyclopedia Galactica: 사이베리아 네트워크, 사이버코즘, 아카이렉트, 가상 현실(VR).
-- 관련 문서: "여행자의 기록(Traveler’s Notes)" 시리즈, 구글헤르츠 버치드롬, 솔립시스트 범가상성.
-- 2025년 설정 업데이트: 아카이렉트 지형도, 버치학(Virchology) 투고 논문들.
+- **Orion’s Arm Encyclopedia Galactica**:
+  - 사이베리아 네트워크 (Cyberian Network): https://www.orionsarm.com/eg-topic/45cbce679007a
+  - 사이버코즘 (Cybercosm): https://www.orionsarm.com/eg-topic/56c5448b9a07b
+  - 아카이렉트 (Archailects): https://www.orionsarm.com/eg-article/49cfe7a37b5b3
+  - 가상 현실(Virch) 및 안티포달 어니언 퀘스트 상세: https://www.orionsarm.com/eg-topic/637ce8a41bc7e
+- **관련 문서**:
+  - "여행자의 기록(Traveler’s Notes)" 시리즈: https://www.orionsarm.com/xcms.php?r=oa-story-list&list=travelers-notes
+  - 구글헤르츠 버치드롬: 확인된 직접 자료 없음 (관련 Virch 개념 참조)
+  - 솔립시스트 범가상성 (Solipsist Panvirtuality): https://www.orionsarm.com/eg-topic/45cfd1ff68f47
+- **2025년 설정 업데이트**:
+  - 버치학(Virchology): https://www.orionsarm.com/eg-article/48bca623296ae
+  - 아카이렉트 지형도 관련 (최근 Archailect 업데이트): https://www.orionsarm.com/eg-article/673c67fe65c4c (2024 Archailect-Creationism)
 
