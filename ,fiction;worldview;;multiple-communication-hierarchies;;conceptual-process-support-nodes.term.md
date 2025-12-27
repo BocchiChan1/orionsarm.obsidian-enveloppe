@@ -43,14 +43,21 @@ aliases:
 ### 3. 효과
 
 1. **초지능과 하위 지성의 협력:** Noosphere는 높은 Toposophic 존재가 낮은 수준의 마음(minds)이 형성하는 미메틱(Memetic) 환경을 필요로 한다는 **'Noospheric Theory'** 를 실현하는 장입니다. 이는 인간이 장내 미생물에 의존하는 생물학적 공생 관계와 유사합니다.
+
 2. **지적 자산의 보존:** Terragen 문명이 도달한 최고 수준의 지적 성과물을 파편화되지 않게 유지하며, 인지적 다양성을 보존합니다.
+
 3. **장벽 없는 담론:** 이 인프라들 덕분에 Noosphere는 극도의 복잡성을 유지하면서도, 이론적으로는 문명의 모든 구성원에게 열려 있는 포용적인 가상 환경으로 기능합니다.
 
 ### 4. 출처
 
-- **Encyclopedia Galactica:** 'Noosphere' 항목에서 두 개념이 상호 보완적으로 작동하여 전체 S-level 범위를 호스트한다고 명시되어 있습니다.
-- **설정상의 한계:** 공식 Canon 자료(2025년 12월 기준)에서도 구체적인 데이터 변환 알고리즘이나 엔트로피 관리 메커니즘 등 세부 기술 사양은 묘사되지 않으며, Noosphere를 지탱하는 '블랙박스' 형태의 고급 설정으로 존재합니다.
-- **관련 항목:** Cybercosm, Known Net, Toposophic Levels, Noospheric Theory.
+- **Encyclopedia Galactica**:
+  - Noosphere 주요 항목 (Cybercosm 내 논의 포럼 및 인프라 설명): https://www.orionsarm.com/page/300
+  - Noosphere (Transingularity minds 논의 공간 및 Cybercosm 연계): https://www.orionsarm.com/eg-topic/56c5448b9a07b
+  - Noospheric Theory: https://www.orionsarm.com/eg-article/4b5336f042067
+- **관련 항목**:
+  - Cybercosm: https://www.orionsarm.com/eg-topic/56c5448b9a07b
+  - Toposophic Levels: https://www.orionsarm.com/eg-article/4b9f2a844034a
+- **설정상의 한계:** 공식 자료(2025년 12월 기준)에서 Noosphere의 세부 기술 사양(예: 데이터 변환 알고리즘, 엔트로피 관리)은 블랙박스 형태로 묘사되며, 구체적 설명이 제한됨.
 
 ### 5. spaced repetition
 
@@ -69,3 +76,4 @@ Noosphere는 높은 수준 존재가 낮은 수준 마음의 {{미메틱 환경}
 공식 자료에서 두 인프라는 Noosphere가 전체 S-level 범위를 호스트할 수 있도록 상호 보완적으로 작동하나, 세부 기술 사양은 {{블랙박스}} 형태로만 묘사된다.
 
 ### 6. mnemonics
+
