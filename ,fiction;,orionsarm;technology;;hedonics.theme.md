@@ -1,5 +1,5 @@
 ---
-title: ",fiction;,orionsarm;technology;;hedonism-morphological-freedom.theme"
+title: ",fiction;,orionsarm;technology;;hedonics.theme"
 created: 2026-01-02
 created_date: 2026-01-02
 modified_date: 2026-01-02
@@ -10,7 +10,7 @@ category:
 personality:
   - technology
 matter:
-  - hedonism-morphological-freedom
+  - hedonics
 unbox: true
 env-share: true
 spaced-repetition: false
@@ -19,7 +19,7 @@ tags:
   - arts/fiction
   - filmo/orionsarm
 aliases:
-  - hedonism-morphological-freedom.001
+  - hedonics
 ---
 
 ### 1. 개요
