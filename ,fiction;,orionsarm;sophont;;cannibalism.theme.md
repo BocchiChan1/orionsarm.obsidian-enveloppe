@@ -10,7 +10,7 @@ category:
 personality:
   - sophont
 matter:
-  - sophontophagy
+  - cannibalism
 unbox: true
 env-share: true
 spaced-repetition: false
@@ -19,7 +19,7 @@ tags:
   - arts/fiction
   - filmo/orionsarm
 aliases:
-  - sophontophagy.001
+  - cannibalism.001
 ---
 
 ### 1. 개요

@@ -1,8 +1,8 @@
 ---
-title: ",fiction;,orionsarm;academic;;esoteric-disciplines.dic"
+title: ",fiction;academic;;esoteric-disciplines.dic"
 created: 2026-01-01
-created_date: 2026-01-01 16:28
-modified_date: 2026-01-01 16:37
+created_date: 2026-01-01 16:59
+modified_date: 2026-01-07 14:34
 info:
   - dic
 category:
@@ -21,6 +21,7 @@ tags:
 aliases:
   - esoteric-disciplines.001
 ---
+
 
 ### 1. 개요
 
