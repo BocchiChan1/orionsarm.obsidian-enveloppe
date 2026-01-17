@@ -14,7 +14,7 @@ matter:
 unbox: true
 env-share: true
 spaced-repetition: false
-mnemonics: false
+mnemonic: false
 tags:
   - filmo/ai
 aliases:
